@@ -4,3 +4,9 @@
 ![Screenshot](creational/screenshots/singleton/concept.png)
 
 ![Screenshot](creational/screenshots/singleton/design.png)
+
+![Screenshot](creational/screenshots/singleton/pitfals.png)
+
+![Screenshot](creational/screenshots/singleton/contrast.png)
+
+### Builder Pattern
