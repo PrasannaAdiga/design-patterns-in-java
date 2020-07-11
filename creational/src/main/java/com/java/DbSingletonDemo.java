@@ -12,11 +12,15 @@ public class DbSingletonDemo {
         DbSingletonEager anotherDbSingletonEager = DbSingletonEager.getInstance();
         System.out.println(anotherDbSingletonEager);
 
+        /* ================================================================================== */
+
         //Check DbSingletonEager
         DbSingletonLazy dbSingletonLazy = DbSingletonLazy.getInstance();
         System.out.println(dbSingletonLazy);
         DbSingletonLazy anotherDbSingletonLazy = DbSingletonLazy.getInstance();
         System.out.println(anotherDbSingletonLazy);
+
+        /* ================================================================================== */
 
         //Check DbSingletonThreadSafeAndReflectionSafe
         DbSingletonThreadSafe dbSingletonThreadSafe = DbSingletonThreadSafe.getInstance();

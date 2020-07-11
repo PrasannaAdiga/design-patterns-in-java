@@ -5,11 +5,15 @@
 
 ![Screenshot](creational/screenshots/singleton/design.png)
 
-![Screenshot](creational/screenshots/singleton/pitfals.png)
+![Screenshot](creational/screenshots/singleton/pitfalls.png)
 
 ![Image](creational/screenshots/singleton/contrast.png)
 
-
-
-
 ### Builder Pattern
+![Screenshot](creational/screenshots/builder/concept.png) 
+
+![Screenshot](creational/screenshots/builder/design.png)
+
+![Screenshot](creational/screenshots/builder/pitfalls.png)
+
+![Image](creational/screenshots/builder/contrast.png)
