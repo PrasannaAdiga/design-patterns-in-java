@@ -4,8 +4,16 @@ import com.java.builder.LunchOrder;
 import com.java.builder.LunchOrderJavaBean;
 import com.java.builder.LunchOrderTelescopingConstructor;
 
-//Builder pattern is required to handle the complex constructor scenarios
-public class LunchOrderDemo {
+/**
+ * This pattern is used to handle complex constructor scenarios
+ * Constructor will have many sets of parameters
+ * Classes created by this pattern are usually immutable in nature, through applying no setters
+ * This pattern requires a static inner classes, which is used to build the required object
+ * No interfaces are required to define, can be achieved through static classes
+ * Can be used easily with Legacy codes
+ * Ex: StringBuilder, StringBuffer, DocumentBuilder
+ */
+public class BuilderDemo {
     public static void main(String[] args) {
         //Check LunchOrder Java Bean
         LunchOrderJavaBean lunchOrderJavaBean = new LunchOrderJavaBean();
