@@ -13,6 +13,7 @@ import com.java.prototype.Registry;
  * Objects can be cloned either through shallow or deep copy techniques
  * Objects created by shallow copy, will have the same references to cloned object's member variables
  * Objects created by deep copy, will have complete new member variables
+ * Prototype is kind of opposite to builder pattern
  * Ex: java.lang.Object#clone()
  */
 public class PrototypeDemo {
