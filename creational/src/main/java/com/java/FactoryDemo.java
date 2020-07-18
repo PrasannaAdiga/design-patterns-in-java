@@ -2,7 +2,7 @@ package com.java;
 
 import com.java.factory.Website;
 import com.java.factory.WebsiteFactory;
-import com.java.factory.WebsiteType;
+import com.java.factory.enums.WebsiteType;
 
 public class FactoryDemo {
     public static void main(String[] args) {
