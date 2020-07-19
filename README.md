@@ -15,7 +15,9 @@ Patters for how to create objects
 ## Structural Patterns
 Patters for how to use objects
 #### Adapter Pattern
-###### For connecting new code to legacy code
+###### For connecting new code to legacy code (works with legacy code)
+#### Bridge Pattern
+###### For connecting new code to legacy code (works with new code)
 
 ## Behavioural Patterns
 Patterns for how to communicate between objects

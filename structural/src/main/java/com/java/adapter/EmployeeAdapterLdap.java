@@ -1,6 +1,9 @@
 package com.java.adapter;
 
-//Adapter class which basically adapts an legacy EmployeeLdap into as new 'Employee'
+/**
+ * Adapter class which basically adapts an legacy EmployeeLdap into a new 'Employee'
+ * This class is an 'Employee' and has a reference of 'EmployeeLdap'
+ */
 public class EmployeeAdapterLdap implements Employee {
     private EmployeeLdap employeeLdap;
 
