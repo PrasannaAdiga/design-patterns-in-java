@@ -1,4 +1,4 @@
-package com.java.bridge.with.no.bridge;
+package com.java.bridge.no.bridge;
 
 //concrete class for Square of type Blue
 public class BlueSquare extends Square {

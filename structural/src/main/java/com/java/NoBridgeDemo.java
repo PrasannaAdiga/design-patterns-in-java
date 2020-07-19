@@ -1,8 +1,8 @@
 package com.java;
 
-import com.java.bridge.with.no.bridge.BlueSquare;
-import com.java.bridge.with.no.bridge.RedCircle;
-import com.java.bridge.with.no.bridge.Shape;
+import com.java.bridge.no.bridge.BlueSquare;
+import com.java.bridge.no.bridge.RedCircle;
+import com.java.bridge.no.bridge.Shape;
 
 /**
  * Demo class for Bridge pattern where bridge pattern is not used in the implementation

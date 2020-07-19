@@ -1,4 +1,4 @@
-package com.java.bridge.with.no.bridge;
+package com.java.bridge.no.bridge;
 
 //class contains contract for a shape
 public abstract class Shape {

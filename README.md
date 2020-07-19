@@ -18,6 +18,8 @@ Patters for how to use objects
 ###### For connecting new code to legacy code (works with legacy code)
 #### Bridge Pattern
 ###### For connecting new code to legacy code (works with new code)
+#### Composite Pattern
+###### Hierarchical type pattern that deals with tree structures of information
 
 ## Behavioural Patterns
 Patterns for how to communicate between objects

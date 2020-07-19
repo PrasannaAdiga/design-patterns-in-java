@@ -1,4 +1,4 @@
-package com.java.bridge.with.no.bridge;
+package com.java.bridge.no.bridge;
 
 //abstract class for all circles
 public abstract class Circle extends Shape {

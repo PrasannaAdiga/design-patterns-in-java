@@ -1,4 +1,4 @@
-package com.java.bridge.with.no.bridge;
+package com.java.bridge.no.bridge;
 
 //concrete class for Circle of type Red
 public class RedCircle extends Circle {
